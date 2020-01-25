@@ -1,0 +1,30 @@
+.list {
+  @include list;
+}
+
+.list-item {
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 30px auto;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.button-wrapper {
+  padding-top: 15px;
+}
+
+.indent {
+  margin-left: 20px;
+}
+
+.link-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
